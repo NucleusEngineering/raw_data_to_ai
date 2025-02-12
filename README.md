@@ -8,6 +8,10 @@ This Jupyter Notebook provides a rapid, data-driven framework tailored for start
 
 For startups, speed and efficiency are paramount. This notebook demonstrates how to leverage Google Cloud services to rapidly move from raw data to actionable AI insights, without the need for extensive resources or complex setups. We explore the hypothetical relationship between air quality and happiness, showcasing a practical approach for startups to gain data-driven insights. 📈
 
+## Architecture
+
+![Notebook Architecture](notebook-architecture.png)
+
 ## What Startups Will Learn
 
 * **Rapid Prototyping on Google Cloud:** How to quickly set up and utilize Google Cloud services for data analysis and AI prototyping. ☁️
