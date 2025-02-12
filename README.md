@@ -1,4 +1,5 @@
-# Data Done Right: From Raw Data to AI Insights, Fast - For Startups 🚀
+# Data Done Right: From Raw Data to AI Insights, Fast 
+###For Startups 🚀
 
 This Jupyter Notebook provides a rapid, data-driven framework tailored for startups, demonstrating how to extract AI insights from raw data quickly and efficiently within the Google Cloud ecosystem. We focus on a simple but powerful use case: predicting happiness scores based on air quality metrics. 😊
 
