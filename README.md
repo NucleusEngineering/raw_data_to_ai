@@ -51,6 +51,8 @@ For startups, speed and efficiency are paramount. This notebook demonstrates how
 
 ## Want to check out a Live Demo showcasing a similar use case?
 
+*Click the image to watch the video.*
+
 [![Live Demo Screenshot](live-demo-screenshot.png)](https://www.youtube.com/watch?v=S7skzL8rPKk&t=316s)
 
 ## Disclaimer
