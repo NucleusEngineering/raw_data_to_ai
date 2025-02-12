@@ -41,12 +41,13 @@ For startups, speed and efficiency are paramount. This notebook demonstrates how
 
 ## How to Run
 
-1.  Clone or download the files from this repository. 📥
+1.  Clone or download the files from the */notebook_files* folder from this repository. 📥
 2.  Ensure you have a Google Cloud project with the necessary credentials. 🔑
 3.  Open the Jupyter Notebook (`raw_data_to_ai_fast.ipynb`) using, for example, [Colab in Vertex AI](https://console.cloud.google.com/vertex-ai/colab/overview). 💻
 4.  If using Colab on Google Cloud, make sure to create a runtime first. [Documentation can be found here](https://cloud.google.com/vertex-ai/docs/colab/create-runtime).
-5.  Execute the cells in the notebook sequentially, following the instructions provided. ▶️
-6.  Ensure your Google Cloud environment variables or configuration files are correctly set up. ⚙️
+5.  Upload the file (`FormResponses.csv`) to your Jupyter Notebook environment.
+6.  Execute the cells in the notebook sequentially, following the instructions provided. ▶️
+7.  Ensure your Google Cloud environment variables or configuration files are correctly set up. ⚙️
 
 ## Want to check out a Live Demo showcasing a similar use case?
 
