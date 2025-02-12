@@ -35,9 +35,8 @@ For startups, speed and efficiency are paramount. This notebook demonstrates how
 2.  **Rapid Data Acquisition from Environmental API:** Quickly retrieving data from external sources. 🌐
 3.  **Agile Data Enrichment with Gemini:** Using Gemini to generate synthetic data for rapid dataset expansion. 📝
 4.  **Scalable Data Ingestion & Exploration in BigQuery:** Leveraging BigQuery for efficient data warehousing and analysis. 🔍
-5.  **Lean Data Transformation & Feature Engineering with SQL:** Utilizing SQL for rapid data preparation. 🛠️
-6.  **Rapid MVP Model Training (SQL) in BigQuery:** Training a machine learning model using SQL for fast prototyping. 🎯
-7.  **Quick Insight Generation & LLM Application for Startup Innovation:** Generating actionable insights and exploring LLM applications. 💡
+5.  **Rapid MVP Model Training (SQL) in BigQuery:** Training a machine learning model using SQL for fast prototyping. 🎯
+6.  **Quick Insight Generation & LLM Application for Startup Innovation:** Generating actionable insights and exploring LLM applications. 💡
 
 
 ## How to Run
