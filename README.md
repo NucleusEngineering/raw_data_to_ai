@@ -10,7 +10,7 @@ For startups, speed and efficiency are paramount. This notebook demonstrates how
 
 ## Architecture
 
-![Notebook Architecture](notebook-architecture.png)
+![Notebook Architecture](images/notebook-architecture.png)
 
 ## What Startups Will Learn
 
@@ -52,7 +52,7 @@ For startups, speed and efficiency are paramount. This notebook demonstrates how
 
 *Click the image to watch the video.*
 
-[![Live Demo Screenshot](live-demo-screenshot.png)](https://www.youtube.com/watch?v=S7skzL8rPKk&t=316s)
+[![Live Demo Screenshot](images/live-demo-screenshot.png)](https://www.youtube.com/watch?v=S7skzL8rPKk&t=316s)
 
 ## Disclaimer
 This repository itself is not an officially supported Google product. The code in this repository is for demonstrative purposes only.
