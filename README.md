@@ -2,7 +2,7 @@
 
 This Jupyter Notebook provides a rapid, data-driven framework tailored for startups, demonstrating how to extract AI insights from raw data quickly and efficiently within the Google Cloud ecosystem. We focus on a simple but powerful use case: predicting happiness scores based on air quality metrics. 😊
 
-**Please note: The use case presented in this notebook is a fictional scenario created for illustrative purposes. It serves as inspiration for demonstrating data analysis and machine learning techniques on Google Cloud, and should not be interpreted as a scientifically validated study. 💡**
+*Please note: The use case presented in this notebook is a fictional scenario created for illustrative purposes. It serves as inspiration for demonstrating data analysis and machine learning techniques on Google Cloud, and should not be interpreted as a scientifically validated study. 💡*
 
 ## Project Overview
 
